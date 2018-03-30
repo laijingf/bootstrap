@@ -1,0 +1,50 @@
+.book h2{
+	margin-left:50px;
+}
+.book .hr{
+	color:#000;
+}
+.book .type-choice ul{
+	margin:0 0 30px 60px;
+}
+.book .type-choice ul li{
+	font-size:20px;
+	display:inline;
+	padding-left:15px;
+}
+.book .type-choice ul li:first-child{
+	font-size:25px;
+}
+.price,.reserve{
+	color:#f60;
+}
+ .more{
+	margin-left:45%;
+	
+}
+/* 小屏幕（平板，大于等于 768px） */ 
+@media (max-width: 768px) { 
+   .book h2{
+	font-size:15px;
+}
+  .book .type-choice ul li{
+	font-size:15px;
+	padding-left:8px;
+}
+.book .type-choice ul li:first-child{
+	font-size:15px;
+}
+.newest-ticket{
+	margin:10px 30px
+}
+}
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */ 
+@media (min-width: 992px) { 
+ 
+ }
+ 
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+ @media (min-width: 1200px) {  
+    
+ }

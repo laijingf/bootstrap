@@ -1,0 +1,23 @@
+ul,li{list-style:none;}
+.carousel-inner .item{
+	height:500px;
+	
+}
+.carousel-inner .item img {
+    width:1000px;
+	height:400px;
+	margin:0 auto;
+	}
+.carousel-control { 
+    font-size: 100px; 
+	}
+#footer { 
+    padding:5px; 
+	text-align: center;
+	background-color: #eee; 
+	border-top: 1px solid #ccc;
+
+	}
+#footer .copyright{
+	border-top:1px solid #ccc;
+}	

@@ -1,0 +1,27 @@
+
+.hot{
+	text-align:center;
+}
+.pic figure{
+	margin-bottom:15px;
+	border:1px solid #ddd;
+	color:#000;
+}
+.pic img{
+	padding:3px 5px;
+}
+.pic figcaption{
+	padding:5px 8px;
+}
+.pic .price{
+	color:#f60;
+	font-size:18px;
+	
+}
+.pic .sat{
+	float:right;
+	color:#f60;
+	font-size:18px;
+}
+
+
